@@ -1,4 +1,4 @@
-# 🛒 API E-commerce do Jones — Avaliação de Backend
+# 🛒 API E-commerce do JonesZ — Avaliação de Backend
 
 Esta é uma API REST desenvolvida com **FastAPI**, utilizando **SQLAlchemy** para mapeamento de dados (ORM) e **PostgreSQL** provisionado via Docker.
 
@@ -150,3 +150,6 @@ Isso garante que:
 ```
 
 ```
+
+Autor: João Victor Elizeu Silva(JonesZ)
+Graduando em Engenharia de Software pela Universidade de Vassouras em Maricá.
