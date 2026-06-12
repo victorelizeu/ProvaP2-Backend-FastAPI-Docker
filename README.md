@@ -151,5 +151,5 @@ Isso garante que:
 
 ```
 
-Autor: João Victor Elizeu Silva(JonesZ)
+👨‍💻 Autor: João Victor Elizeu Silva(JonesZ)
 Graduando em Engenharia de Software pela Universidade de Vassouras em Maricá.
