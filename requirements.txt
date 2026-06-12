@@ -1,0 +1,7 @@
+fastapi
+sqlalchemy
+uvicorn[standard]
+pytest
+httpx
+psycopg2-binary
+pytest-cov
