@@ -4,6 +4,8 @@ Esta é uma API REST desenvolvida com **FastAPI**, utilizando **SQLAlchemy** par
 
 O projeto inclui uma suíte completa de **testes automatizados com Pytest**, executados contra um banco de dados real e isolado, garantindo confiabilidade e independência entre os cenários de teste.
 
+Obs: A .env.EXAMPLE contém a .env de exemplo para rodar no docker, precisa retirar o .EXAMPLE do nome para rodar normalmente.
+
 ---
 
 ## 🛠️ Tecnologias Utilizadas
